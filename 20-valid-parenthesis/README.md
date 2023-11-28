@@ -22,3 +22,7 @@ Constraints:
 
 - `1 <= s.length <= 104`
 - s consists of parentheses only `'()[]{}'`.
+
+---
+
+[Problem link](https://leetcode.com/problems/valid-parentheses/)
