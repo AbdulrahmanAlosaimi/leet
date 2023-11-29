@@ -22,3 +22,7 @@ Write a function that takes the binary representation of an unsigned integer and
 - The input must be a binary string of length `32`.
 
 **Follow up:** If this function is called many times, how would you optimize it?
+
+---
+
+[Problem Link](https://leetcode.com/problems/number-of-1-bits/description/)
