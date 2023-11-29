@@ -5,7 +5,8 @@ Merge the two lists into one **sorted** list. The list should be made by splicin
 Return _the head of the merged linked list._
 
 **Example 1:**
-![Alt text](image.png)
+
+![merge_ex1](https://github.com/AbdulrahmanAlosaimi/leet/assets/76831852/ab073402-9a65-4446-bf45-8076170511ca)
 
 > **Input:** list1 = [1,2,4], list2 = [1,3,4]<br>**Output:** [1, 1, 2, 3, 4, 4]
 
