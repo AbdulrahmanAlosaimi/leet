@@ -1,10 +1,11 @@
 # LeetCode Problem Solutions
 
-I created this repo for personal use, to store my leetcode solutions.
+I created this repo for personal use, to store my leetcode solutions. My leetcode profile can be found [here](https://leetcode.com/AbdulrahmanMO/)
 
 It should be regularly updated whenever I solve a problem.
 
 Languages that will be used:
+
 - Java
 - Python
 - C++
