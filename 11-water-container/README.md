@@ -23,3 +23,7 @@ Return *the maximum amount of water a container can store*.
 - `n == height.length`
 - `2 <= n <= 105`
 - `0 <= height[i] <= 104`
+
+---
+
+[Problem link](https://leetcode.com/problems/container-with-most-water/)
